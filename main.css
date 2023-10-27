@@ -22,3 +22,7 @@ body{
     margin: auto;
     font-size: large;
 }
+
+*{
+    color: white;
+}
